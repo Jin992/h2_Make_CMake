@@ -1,0 +1,4 @@
+/home/cppbcuser/GL-BC/gcc_task/ninja_build/CMakeFiles/rebuild_cache.dir
+/home/cppbcuser/GL-BC/gcc_task/ninja_build/CMakeFiles/edit_cache.dir
+/home/cppbcuser/GL-BC/gcc_task/ninja_build/CMakeFiles/calculator.dir
+/home/cppbcuser/GL-BC/gcc_task/ninja_build/CMakeFiles/calc.dir
